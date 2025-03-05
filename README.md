@@ -1,2 +1,2 @@
 # LargestOfFive-Java
-Java program that finds and prints the largest of five distinct integers provided as command-line arguments.
+A simple Java program that takes **five distinct integers** as command-line arguments and prints the largest value. This program demonstrates the use of loops, command-line arguments, and conditional logic to compare values efficiently.
